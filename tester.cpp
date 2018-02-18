@@ -2,9 +2,9 @@
 
 int main() {
 	double a, b, c;
-	cout << "Enter variables " << endl;
+	cout << "Введите переменные " << endl;
 	cin >> a >> b;
-	cout << "Choose operation: +, -, *, / " << endl;
+	cout << "Выберите операцию: +, -, *, / " << endl;
 	char op = ' ';
 	cin >> op;
 	switch (op) {
